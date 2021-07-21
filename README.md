@@ -1,2 +1,3 @@
 # animated-octo-meme
-sample repository
+Changes for a new commit.....
+Previous commit doesn't exist
